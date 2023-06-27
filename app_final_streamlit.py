@@ -9,7 +9,6 @@ Created on Thu Mon 5 23:56:08 2023
 import streamlit as st
 import streamlit.components.v1 as components
 import requests
-from sklearn.datasets import make_classification
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.tree import DecisionTreeClassifier
