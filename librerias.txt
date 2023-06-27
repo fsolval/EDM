@@ -7,17 +7,4 @@ json
 sklearn
 imblearn.over_sampling
 matplotlib.pyplot
-sklearn.datasets
-sklearn.model_selection 
-sklearn.tree
-sklearn.linear_model
-sklearn.neighbors
-sklearn.ensemble
-streamlit_folium
-sklearn.metrics 
-sklearn.tree
-sklearn.neural_network
-sklearn.neighbors
-sklearn.svm
-sklearn.ensemble
 streamlit_option_menu
