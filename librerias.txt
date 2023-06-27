@@ -5,4 +5,4 @@ pandas
 json
 sklearn
 imblearn.over_sampling
-matplotlib.pyplot
+matplotlib
