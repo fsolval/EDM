@@ -4,5 +4,6 @@ folium
 pandas
 json
 sklearn
-imblearn.over_sampling
+imblearn
 matplotlib
+
